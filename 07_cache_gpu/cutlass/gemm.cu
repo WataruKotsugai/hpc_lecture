@@ -92,3 +92,4 @@ int main(int argc, const char **argv) {
   printf("error: %lf\n", err/n/m);
   cublasDestroy(g_cublas_handle);
 }
+
